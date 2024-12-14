@@ -2,7 +2,7 @@ import BannerImage from "/src/assets/todobanner1.jpg";
 
 function Banner() {
   return (
-    <div className="w-full h-[25rem] relative">
+    <div className="w-full h-[15rem] relative">
       <img
         src={BannerImage}
         alt="Banner Background"
