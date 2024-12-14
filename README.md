@@ -1,8 +1,34 @@
-# React + Vite
+# To-Do Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive To-Do application designed to help you organize and track your tasks efficiently. Built using **React** and styled with **Tailwind CSS**, this application ensures a clean and user-friendly experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new tasks.
+- Mark tasks as completed.
+- Edit existing tasks.
+- Delete tasks.
+- Responsive design for all devices.
+
+## Technologies Used
+
+- **Frontend:** React, Tailwind CSS
+
+## Deployment
+
+This application is deployed using vercel.
+🔗 [Live Demo](https://todo-app-seven-flax-91.vercel.app/)
+
+## Screenshots
+
+### Home Page
+![Without adding any thing](![alt text](<Todo 1.png>))
+
+![After todo list](c:\Users\hp\Pictures\Screenshots\todo2.png)
+
+
+## Contributing
+
+Contributions are welcome! 
+
+
