@@ -24,7 +24,8 @@ This application is deployed using vercel.
 ### Home Page
 ![Without adding any thing](![alt text](<Todo 1.png>))
 
-![After todo list](c:\Users\hp\Pictures\Screenshots\todo2.png)
+![After todo list](![Screenshot (49)](https://github.com/user-attachments/assets/43ee1d90-e073-42fb-a5ac-9fc6867be806)
+)
 
 
 ## Contributing
