@@ -4,15 +4,20 @@ function AddTodo({ addTodos }){
 return(
     <>
     <input 
-    placeholder="Add your next todo..." 
+    placeholder="Add your todo..." 
     onChange={(e)=>setTodoText(e.target.value)}
     value={todoText}
     />
-    <button onClick={()=>{
-        addTodos(todoText);
-        setTodoText('');
-    }
-    }>Submit</button>
+<button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full"
+  onClick={() => {
+    console.log('Button clicked');
+    addTodos(todoText);
+    setTodoText('');
+  }}
+>
+  Submit
+</button>
+
     </>
 )
 }
